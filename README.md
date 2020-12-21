@@ -1,5 +1,4 @@
 # cyberpunk2077-configs
-cyberpunk 2077 game configs and custom keybind settings
 
 #### `AltCharLighting.ini` in `\Cyberpunk 2077\engine\config\platform\pc`
 removes character model lighting/glow similar to the one from Fallout
