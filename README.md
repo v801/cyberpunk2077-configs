@@ -12,11 +12,11 @@ tweaked driving handling and custom mappings!  double tap to dodge is removed.
 
 new bindings:    
 Alt (Dodge), press Alt + direction to dodge    
-Q (Use Cyberware), changed from E
-E (Use), changed from F
-F (Scanner Toggle), changed from LCtrl
-LCtrl (Swap/Holster Weapon), changed from Alt
-Tab (Hub Menu), I key still works
-` (Call Car), changed from V
+Q (Use Cyberware), changed from E    
+E (Use), changed from F    
+F (Scanner Toggle), changed from LCtrl    
+LCtrl (Swap/Holster Weapon), changed from Alt    
+Tab (Hub Menu), I key still works    
+` (Call Car), changed from V    
 V (Exit Vehicle), changed to Q    
-C (Cycle Vehicle Camera), changed from Q
+C (Cycle Vehicle Camera), changed from Q    
